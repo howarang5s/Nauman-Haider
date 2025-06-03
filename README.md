@@ -20,7 +20,7 @@ _(You can update these by customizing the pinned section on your GitHub profile.
 
 - [Loan Application System](https://github.com/MateenShahbaz/Laon-App-.git) — Full-stack system with authentication, admin analytics and loan managment.
 - [Cyberbullying Detection](https://github.com/weirdrebel/CyberLens.git) — AI Research based project that detects cyberbullying in image-text combinations.
-- [Portfolio Website](https://github.com/your-username/portfolio-site) — My personal website built with **React** and **Tailwind CSS**.
+- [Portfolio Website](https://github.com/howarang5s/howarange5s) — My personal website built.
 - [ImageApi](https://github.com/howarang5s/Project_Image_APi.git) — Created in Intenship in GAPER.io and it is built with **CLOUDSQL**, **PYTHON**, and deployed on **Google Cloud Platform**. 
 
 ---
@@ -35,6 +35,9 @@ _(You can update these by customizing the pinned section on your GitHub profile.
 
 - [Quiz Platform](https://github.com/howarang5s/Quiz-Platform.git)  
   Quiz Platform using ""React JS"" with basic functionalities
+
+- [Chat-App](https://github.com/howarang5s/Chat-app.git)  
+  Chat Application using MERN with real time messages and updates using sockets
 
 ---
 
