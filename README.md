@@ -19,6 +19,7 @@ I'm **Nauman Haider**, a passionate **MERN Stack Web Developer**. I love buildin
 _(You can update these by customizing the pinned section on your GitHub profile.)_
 
 - [Loan Application System](https://github.com/MateenShahbaz/Laon-App-.git) — Full-stack system with authentication, admin analytics and loan managment.
+- [Messy Report System](https://github.com/howarang5s/MessyReport) — Full-stack system with functionality of complaint and rating an officer with short level e-commerce.
 - [Cyberbullying Detection](https://github.com/weirdrebel/CyberLens.git) — AI Research based project that detects cyberbullying in image-text combinations.
 - [Portfolio Website](https://github.com/howarang5s/howarange5s) — My personal website built.
 - [ImageApi](https://github.com/howarang5s/Project_Image_APi.git) — Created in Intenship in GAPER.io and it is built with **CLOUDSQL**, **PYTHON**, and deployed on **Google Cloud Platform**. 
