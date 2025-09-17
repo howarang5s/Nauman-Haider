@@ -28,7 +28,7 @@ _(You can update these by customizing the pinned section on your GitHub profile.
 
 ## 🧠 Some Other Repositories I'm Proud Of
 
-- [🖥️ Student Portal](https://github.com/howarang5s/Student_Portal.git)  
+- [🖥Student Portal](https://github.com/howarang5s/Student_Portal.git)  
   Student Portal built with **Angular.ts**, **Framer Motion**, and **CSS**.**Node.Js"" during internship in Optima Geeks
 
 - [Ecommerce Frontend](https://github.com/howarang5s/Ecommerce_React.git)  
