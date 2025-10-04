@@ -16,8 +16,6 @@ I'm **Nauman Haider**, a passionate **MERN Stack Web Developer**. I love buildin
 
 ## 📌 My Pinned Projects
 
-_(You can update these by customizing the pinned section on your GitHub profile.)_
-
 - [Loan Application System](https://github.com/MateenShahbaz/Laon-App-.git) — Full-stack system with authentication, admin analytics and loan managment.
 - [Messy Report System](https://github.com/howarang5s/MessyReport) — Full-stack system with functionality of complaint and rating an officer with short level e-commerce.
 - [Cyberbullying Detection](https://github.com/weirdrebel/CyberLens.git) — AI Research based project that detects cyberbullying in image-text combinations.
