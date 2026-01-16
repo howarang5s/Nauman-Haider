@@ -21,7 +21,7 @@ I'm **Nauman Haider**, a passionate **MERN Stack Web Developer**. I love buildin
 - **Tech Stack**: MERN Stack, TensorFlow.js, OpenAI API, Cloudinary
 - **Features**: AI-generated avatars, real-time customization, social sharing, premium AI filters
 - **Learning Focus**: Integrating AI models into full-stack applications, real-time AI processing
-- **Repo**: [Tubbz Yourself GitHub](https://github.com/howarang5s/tubbz)
+- **Repo**: [Tubbz Yourself GitHub](https://github.com/rafeh398/tubzz)
 
 ### 💰 **Loan Application System**
 Full-stack loan management system with authentication, admin analytics, and loan processing.
